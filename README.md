@@ -47,6 +47,16 @@ Flow Navigation (Screen to Screen)
 ## Sprint Progress
 - [x] Add game title label
 - [x] Add button to restart the game
+
+## Video Demo
+<div>
+    <a href="https://www.loom.com/share/d1e5af82b49a4306bfb83e2a2b74513e">
+      
+    </a>
+    <a href="https://www.loom.com/share/d1e5af82b49a4306bfb83e2a2b74513e">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d1e5af82b49a4306bfb83e2a2b74513e-with-play.gif">
+    </a>
+  </div>
       
 ### Wireframes
 [Add picture of your hand sketched wireframes in this section]
