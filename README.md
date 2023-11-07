@@ -1,5 +1,5 @@
-# Original App Design Project - README Template
-## Tic Tac Toe Game
+ios101-capstone-project
+# Tic Tac Toe Game
 
 ### Table of Contents
 1. Overview
