@@ -26,4 +26,4 @@
     - **Scope:** The time needed to build this app will not be enourmous beacuse of the simplicity of the app.
 
 ### Final Choice/Idea
-2. Tic Tac Toe Gam
+2. Tic Tac Toe Game
