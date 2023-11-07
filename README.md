@@ -44,7 +44,10 @@ Tab Navigation (Tab to Screen)
 Flow Navigation (Screen to Screen)
 - Stream screen: None
 
-...
+## Sprint Progress
+- [x] Add game title label
+- [x] Add button to restart the game
+      
 ### Wireframes
 [Add picture of your hand sketched wireframes in this section]
 
