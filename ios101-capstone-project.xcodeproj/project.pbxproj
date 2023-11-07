@@ -13,6 +13,7 @@
 		DB50E7832AF9B36100487C29 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB50E7812AF9B36100487C29 /* Main.storyboard */; };
 		DB50E7852AF9B36200487C29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB50E7842AF9B36200487C29 /* Assets.xcassets */; };
 		DB50E7882AF9B36200487C29 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB50E7862AF9B36200487C29 /* LaunchScreen.storyboard */; };
+		DB50E7902AFA0DB000487C29 /* SelectButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB50E78F2AFA0DB000487C29 /* SelectButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DB50E7842AF9B36200487C29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB50E7872AF9B36200487C29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DB50E7892AF9B36200487C29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB50E78F2AFA0DB000487C29 /* SelectButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DB50E77B2AF9B36100487C29 /* AppDelegate.swift */,
 				DB50E77D2AF9B36100487C29 /* SceneDelegate.swift */,
 				DB50E77F2AF9B36100487C29 /* ViewController.swift */,
+				DB50E78F2AFA0DB000487C29 /* SelectButton.swift */,
 				DB50E7812AF9B36100487C29 /* Main.storyboard */,
 				DB50E7842AF9B36200487C29 /* Assets.xcassets */,
 				DB50E7862AF9B36200487C29 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DB50E7802AF9B36100487C29 /* ViewController.swift in Sources */,
+				DB50E7902AFA0DB000487C29 /* SelectButton.swift in Sources */,
 				DB50E77C2AF9B36100487C29 /* AppDelegate.swift in Sources */,
 				DB50E77E2AF9B36100487C29 /* SceneDelegate.swift in Sources */,
 			);
