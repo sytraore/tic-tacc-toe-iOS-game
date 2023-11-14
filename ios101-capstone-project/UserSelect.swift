@@ -1,5 +1,5 @@
 //
-//  userChoice.swift
+//  UserSelect.swift
 //  ios101-capstone-project
 //
 //  Created by Stephane Traore on 11/13/23.
@@ -7,9 +7,11 @@
 
 import SwiftUI
 
-struct userChoice: View {
+struct UserSelect: View {
+    
     @Binding var letter: String
     @State private var degrees = 0.0
+    
     
     var body: some View {
         ZStack{
@@ -20,10 +22,22 @@ struct userChoice: View {
                 .frame(width: 100, height: 100)
                 .foregroundColor(.white)
             Text(letter)
+                .font(.system(size: 50))
+                .bold()
         }
+        .rotation3DEffect(.degrees(degrees), axis: (x: 0, y: 1, z: 0))
+        .simultaneousGesture(TapGesture().onEnded{ _ in
+            withAnimation(.easeIn(duration: 0.25)){
+                self.degrees -= 180
+            }
+        })
     }
 }
 
 #Preview {
-    userChoice(letter: .constant("X"))
+    UserSelect(letter: .constant("X"))
 }
+
+
+
+
