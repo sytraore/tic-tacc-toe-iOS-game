@@ -16,23 +16,23 @@ class ViewController: UIViewController {
     }
     @IBOutlet weak var turnlabel: UILabel!
     
-    @IBOutlet weak var case_1: UIButton!
+    @IBOutlet weak var cell_1: UIButton!
     
-    @IBOutlet weak var case_2: UIButton!
+    @IBOutlet weak var cell_2: UIButton!
     
-    @IBOutlet weak var case_3: UIButton!
+    @IBOutlet weak var cell_3: UIButton!
     
-    @IBOutlet weak var case_4: UIButton!
+    @IBOutlet weak var cell_4: UIButton!
     
-    @IBOutlet weak var case_5: UIButton!
+    @IBOutlet weak var cell_5: UIButton!
     
-    @IBOutlet weak var case_6: UIButton!
+    @IBOutlet weak var cell_6: UIButton!
     
-    @IBOutlet weak var case_7: UIButton!
+    @IBOutlet weak var cell_7: UIButton!
     
-    @IBOutlet weak var case_8: UIButton!
+    @IBOutlet weak var cell_8: UIButton!
     
-    @IBOutlet weak var case_9: UIButton!
+    @IBOutlet weak var cell_9: UIButton!
     
     
     var firstTurn = Turn.Cross
@@ -50,7 +50,8 @@ class ViewController: UIViewController {
     }
     
     
-    @IBAction func selectCase(_ sender: UIButton) {
+    
+    @IBAction func selectCell(_ sender: UIButton) {
         addToBoard(sender)
     }
     
