@@ -28,7 +28,7 @@
                                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="60"/>
                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                 <state key="normal">
-                                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <color key="titleColor" systemColor="systemRedColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="selectCell:" destination="BYZ-38-t0r" eventType="touchUpInside" id="mAg-AA-EdI"/>
@@ -40,7 +40,7 @@
                                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="60"/>
                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                 <state key="normal">
-                                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <color key="titleColor" systemColor="systemYellowColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="selectCell:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2G2-Vq-3Mv"/>
@@ -52,7 +52,7 @@
                                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="60"/>
                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                 <state key="normal">
-                                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <color key="titleColor" systemColor="systemGreenColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="selectCell:" destination="BYZ-38-t0r" eventType="touchUpInside" id="TXk-bd-aVk"/>
@@ -69,7 +69,7 @@
                                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="60"/>
                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                 <state key="normal">
-                                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <color key="titleColor" systemColor="systemGreenColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="selectCell:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fWv-ca-5DC"/>
@@ -81,7 +81,7 @@
                                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="60"/>
                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                 <state key="normal">
-                                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <color key="titleColor" systemColor="systemRedColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="selectCell:" destination="BYZ-38-t0r" eventType="touchUpInside" id="SYK-jG-dA8"/>
@@ -93,7 +93,7 @@
                                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="60"/>
                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                 <state key="normal">
-                                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <color key="titleColor" systemColor="systemYellowColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="selectCell:" destination="BYZ-38-t0r" eventType="touchUpInside" id="UFo-Lg-WiK"/>
@@ -110,7 +110,7 @@
                                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="60"/>
                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                 <state key="normal">
-                                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <color key="titleColor" systemColor="systemYellowColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="selectCell:" destination="BYZ-38-t0r" eventType="touchUpInside" id="W3x-rK-wyy"/>
@@ -122,7 +122,7 @@
                                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="60"/>
                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                 <state key="normal">
-                                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <color key="titleColor" systemColor="systemGreenColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="selectCell:" destination="BYZ-38-t0r" eventType="touchUpInside" id="UjY-gC-YNR"/>
@@ -134,7 +134,7 @@
                                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="60"/>
                                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                                 <state key="normal">
-                                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <color key="titleColor" systemColor="systemRedColor"/>
                                                 </state>
                                                 <connections>
                                                     <action selector="selectCell:" destination="BYZ-38-t0r" eventType="touchUpInside" id="HkA-xa-fvk"/>
@@ -157,7 +157,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="X" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BKR-4D-Tbq">
                                 <rect key="frame" x="178" y="122" width="43" height="71.666666666666686"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="60"/>
-                                <nil key="textColor"/>
+                                <color key="textColor" systemColor="tintColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Tic Tac Toe " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="c6w-tq-Vsy">
@@ -203,7 +203,19 @@
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
+        <systemColor name="systemGreenColor">
+            <color red="0.20392156859999999" green="0.78039215689999997" blue="0.34901960780000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemRedColor">
+            <color red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemYellowColor">
+            <color red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
         <systemColor name="tableCellBlueTextColor">
+            <color red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="tintColor">
             <color red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
