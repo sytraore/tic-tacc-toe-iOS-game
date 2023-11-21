@@ -48,14 +48,15 @@ Flow Navigation (Screen to Screen)
 - [x] User can restart the game
 - [x] Add cells of a grid to allow selection by user
 - [x] Show winner at the end of the game
+- [x] Change view background color as well as cell letters colors for nicer interface
 
 ## Video Demo
 <div>
-    <a href="https://www.loom.com/share/406f86c498da4329882423ea164519cf">
+    <a href="https://www.loom.com/share/2491868399354641bb8279806bd17fd0">
       
     </a>
-    <a href="https://www.loom.com/share/406f86c498da4329882423ea164519cf">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/406f86c498da4329882423ea164519cf-with-play.gif">
+    <a href="https://www.loom.com/share/2491868399354641bb8279806bd17fd0">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2491868399354641bb8279806bd17fd0-with-play.gif">
     </a>
   </div>
       
