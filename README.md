@@ -1,4 +1,4 @@
-ios101-capstone-project
+
 # Tic Tac Toe Game
 
 ### Table of Contents
